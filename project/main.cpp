@@ -1,3 +1,6 @@
+//Vasileios Gewrgoulas
+//AM: 2954
+
 #include <GL/glut.h>
 #include <cstdlib>
 #include <list>
